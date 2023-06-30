@@ -1,4 +1,4 @@
-baseURL = "https://sinclairinterventions.github.io"
+baseURL = "https://sinclairinterventions.github.io/"
 languageCode = "en-us"
 title = "Archie"
 theme="archie"

@@ -1,37 +1,18 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Archie"
+title = "Sinclair Intervention"
 theme="archie"
-copyright = "© Athul"
+copyright = "© Sinclair Interventions and Associates"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 [params]
-	mode="auto"
+	mode="light"
 	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
-
-[[params.social]]
-name = "GitHub"
-icon = "github"
-url = "https://github.com/athul/archie"
-
-[[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://github.com/athulcajay/"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+	subtitle = "Sinclair Interventions and Associates contact jamessinclair.intervention@gmail.com"
 
 [[menu.main]]
-name = "All posts"
+name = "Blog"
 url = "/posts"
 weight = 2
 
@@ -41,6 +22,6 @@ url = "/about"
 weight = 3
 
 [[menu.main]]
-name = "Tags"
-url = "/tags"
+name = "Contact"
+url = "/contact"
 weight = 4
